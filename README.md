@@ -1,5 +1,5 @@
  # Projet React
-C'est une application frontend décelopée à l'aide de React et TypeScript qui permet de rechercher via l'Api Open Library soit par une recherche simple, soit pas une recherche avancée. Les informations sont enrichies via Wikipedia lorque cela est possible.
+C'est une application frontend dévelopée à l'aide de React et TypeScript qui permet de rechercher via l'Api Open Library soit par une recherche simple, soit pas une recherche avancée. Les informations sont enrichies via Wikipedia lorque cela est possible.
 
 ## Fonctionnalités
 
